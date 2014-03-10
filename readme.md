@@ -19,4 +19,5 @@ The idea is to use an existing API on a fleet management platform to create a li
 #5 Twitter Fines Application
 The idea is to create an application that can be used to nominate people for Fines, to Track Fines nominations, and to allow Nominations to be voted on
 * It was suggested that Twitter could be used as the backing "Data Store" and "Engine" for the Fines Application.
+
 The Twitter Fines Application has been chosen for the ScopeKreeps Journeyman project.
